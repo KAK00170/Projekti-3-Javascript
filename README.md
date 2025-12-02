@@ -9,7 +9,7 @@ Ohjelma hakee käyttäjän hakeman artistin albumit lastFM palvelusta. Ohjelmaan
 # Kuvankaappaukset
 <img width="1318" height="908" alt="image" src="https://github.com/user-attachments/assets/fcadac1f-495b-437b-9956-eacd144148bb" />
 
-Sama kuva kuin aikaisemmin
+*Sama kuva kuin aikaisemmin
 # Teknologiat
 - Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
 # Asennus
