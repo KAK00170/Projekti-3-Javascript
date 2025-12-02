@@ -4,7 +4,6 @@ Projektin jäsenet: Kaapo Kivimäki
 Linkki projektin videoesittelyyn 
 # Oma arvio työstäni
 - Mielestäni onnistuin tehtävässä hyvin.
-- 
 # Tietoja sovelluksesta
 Ohjelma hakee käyttäjän hakeman artistin albumit lastFM palvelusta. Ohjelmaan on lisätty visuaalisuutta JQueryä käyttäen.
 # Kuvankaappaukset
