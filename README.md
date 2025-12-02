@@ -1,7 +1,8 @@
 # Projekti 3: JS-sovellus ulkoisia kirjastoja käyttäen
 Projektin jäsenet: Kaapo Kivimäki
 # Verkkolinkit
-Linkki projektin videoesittelyyn 
+- Linkki projektin videoesittelyyn: https://youtu.be/LOlx8cK2DUk
+- Pääset julkaistuun sovellukseen käsiksi osoitteessa:
 # Oma arvio työstäni
 - Mielestäni onnistuin tehtävässä hyvin.
 # Tietoja sovelluksesta
