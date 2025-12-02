@@ -2,7 +2,7 @@
 Projektin jäsenet: Kaapo Kivimäki
 # Verkkolinkit
 - Linkki projektin videoesittelyyn: https://youtu.be/LOlx8cK2DUk
-- Pääset julkaistuun sovellukseen käsiksi osoitteessa:
+- Pääset julkaistuun sovellukseen käsiksi osoitteessa: https://projekti3musiikki.netlify.app/
 # Oma arvio työstäni
 - Mielestäni onnistuin tehtävässä hyvin.
 # Tietoja sovelluksesta
